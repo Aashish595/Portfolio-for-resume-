@@ -1,3 +1,3 @@
 <h1 align="center">✨ Portfolio Website ✨</h1>
 
-![Demo App](/public/main-phtoto.jpeg)
+![Demo App](/public/main-photo.jpeg)
