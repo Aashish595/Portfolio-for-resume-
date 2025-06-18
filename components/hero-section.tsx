@@ -119,7 +119,7 @@ export default function HeroSection() {
                 <div className="w-full h-full rounded-full bg-white dark:bg-gray-800 p-2">
                   <Image
                     src="/main-photo.jpeg?height=300&width=300"
-                    alt="John Doe"
+                    alt="aashish maurya"
                     width={300}
                     height={300}
                     className="w-full h-full rounded-full object-cover"

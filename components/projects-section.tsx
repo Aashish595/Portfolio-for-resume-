@@ -13,7 +13,7 @@ const projects = [
     title: "Language Exchange Plateform",
     description:
       "• Built a real-time language exchange platform using the MERN stack enabling 1-on-1 or group video calls, chat, and screen sharing",
-    image: "/placeholder.svg?height=200&width=400",
+    image: "/lep.png?height=200&width=400",
     technologies: ["Next.js", "TypeScript", "Prisma", "PostgreSQL", "Stripe"],
     liveLink: "https://language-exchange-plateform.onrender.com/",
     githubLink: "https://github.com/Aashish595/Language-Exchange-Plateform",
